@@ -5,9 +5,11 @@
 
 ---
 
-- 👩‍🏫 I don't have much experience **, but I'm willing to learn**
+- 👩‍🏫 I'm still a beginner **, but I'm willing to learn**
 
 - 🌱 I’m currently learning **Python**
+
+- 👩‍💻 Have done projects in **Web dev and discord.py**
 
 - 💬 Ask me about **anything**
 
