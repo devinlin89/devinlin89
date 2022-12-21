@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Devin Lin</h1>
 <h3 align="center">A 14 year old student from Jakarta, Indonesia</h3>
 
-<div align="center"><a href="https://ibb.co/T0T6wXh"><img src="https://i.ibb.co/ykRtNTs/Banner.png" alt="Banner" border="0"></a></div>
+<div align="center"><img src="https://i.ibb.co/vBBZbfF/Banner.png" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
 
 ---
 
