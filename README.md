@@ -17,7 +17,7 @@
 
 - 📫 My email is **devinlin89@gmail.com**
 
-- ⚡ Fun fact: **I'm a dumbass**
+- ⚡ Fun fact: **I'm a cyclist**
 
 ## Me, but in JSON:
 
@@ -25,7 +25,7 @@
 {
   "firstName": "Devin",
   "lastName": "Lin",
-  "age": 14,
+  "age": 15,
   "interests": [
     "HTML",
     "CSS",
