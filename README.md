@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Devin Lin</h1>
-<h3 align="center">A 14 year old student from Jakarta, Indonesia</h3>
+<h3 align="center">A 15 year old student from Jakarta, Indonesia</h3>
 
 <div align="center"><img src="https://i.ibb.co/qy1Ydd5/Banner.png" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
 
