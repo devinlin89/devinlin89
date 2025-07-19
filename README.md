@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Devin Lin</h1>
-<h3 align="center">A 15 year old student from Jakarta, Indonesia</h3>
+<h3 align="center">A 17 year old student from Jakarta, Indonesia</h3>
 
 <div align="center"><img src="https://i.ibb.co/qy1Ydd5/Banner.png" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
 
@@ -25,7 +25,7 @@
 {
   "firstName": "Devin",
   "lastName": "Lin",
-  "age": 15,
+  "age": 17,
   "interests": [
     "HTML",
     "CSS",
@@ -34,7 +34,7 @@
   ],
   "socials": {
     "gmail": "devinlin89@gmail.com",
-    "discord": "Devinlin89 #3401",
+    "discord": "Devinlin89",
     "twitter": "devinlin89",
     "github": "devinlin89"
   }
