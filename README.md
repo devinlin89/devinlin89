@@ -6,7 +6,10 @@
 ---
 
 # 👋 About Me:
-👩‍🏫 I'm still a beginner, but I'm willing to learn<br>🌱 I'm currently learning Python Pandas and Matplotlib<br>💬 Ask me about anything<br>⚡ Fun fact: I am top 10 nationally on tetr.io Tetra League
+- 👩‍🏫 I'm still a beginner, but I'm willing to learn
+- 🌱 I'm currently learning Python Pandas and Matplotlib
+- 💬 Ask me about anything
+- ⚡ Fun fact: I am top 10 nationally on tetr.io Tetra League
 
 
 ## 🌐 Socials:
