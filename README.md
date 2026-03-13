@@ -22,6 +22,12 @@
   "firstName": "Devin",
   "lastName": "Lin",
   "age": 17,
+  "hobbies": [
+    "Cycling",
+    "Karting",
+    "Sim Racing",
+    "Tetris"
+  ],
   "interests": [
     "HTML",
     "CSS",
