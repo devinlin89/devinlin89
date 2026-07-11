@@ -39,7 +39,7 @@
   ],
   "socials": {
     "email": "devinlin89@gmail.com",
-    "discord": "Devinlin89",
+    "discord": "devinlin89",
     "twitter": "devinlin89",
     "github": "devinlin89", 
     "leetcode": "devinlin89",
