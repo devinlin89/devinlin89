@@ -38,10 +38,12 @@
     "Python"
   ],
   "socials": {
-    "gmail": "devinlin89@gmail.com",
+    "email": "devinlin89@gmail.com",
     "discord": "Devinlin89",
     "twitter": "devinlin89",
-    "github": "devinlin89"
+    "github": "devinlin89", 
+    "leetcode": "devinlin89",
+    "stackoverflow": "devinlin89",
   }
 }
 ```
