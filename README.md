@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Devin Lin</h1>
-<h3 align="center">A 17 year old student at CUHK-Shenzhen</h3>
+<h3 align="center">A 18 year old student at CUHK-Shenzhen</h3>
 
 <div align="center"><img src="https://i.ibb.co/qy1Ydd5/Banner.png" alt="Banner" border="0" style="aspect-ratio: 5 / 2" width="80%"></div>
 
@@ -24,7 +24,7 @@
 {
   "firstName": "Devin",
   "lastName": "Lin",
-  "age": 17,
+  "age": 18,
   "hobbies": [
     "Cycling",
     "Karting",
